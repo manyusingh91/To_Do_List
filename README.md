@@ -1,16 +1,15 @@
-# Calculator App
+# To-Do List App
 
-A simple calculator app built to perform basic arithmetic operations.
+A simple To-Do List app to manage daily tasks effectively.
 
 ## Features
-- Addition, Subtraction, Multiplication, and Division
-- Clear input with a single click
-- User-friendly and responsive interface
+- Add, edit, and delete tasks
+- Mark tasks as complete or incomplete
+- Simple and responsive UI
 
 ## Installation
-Follow these steps to set up and run the project locally:
-
-1. **Clone the repository**:
+1. Clone the repository:
    ```bash
    git clone https://github.com/manyusingh91/To_Do_List/
-   cd calculator-app
+   cd todo-app
+
